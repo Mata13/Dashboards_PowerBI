@@ -19,7 +19,9 @@ Clase05_1.
 Clase05_2.
 
 Cada carpeta contiene:
+
 ✅ Archivos de Power BI utilizados en la clase (.pbix)
+
 ✅ Algunas clases incluyen imágenes de los dashboards creados.
 
 📷 Vista previa de dashboards
